@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Local data/cache
+cache/
+*.parquet
+lines.csv
+
+# IDE
+.idea/
+.vscode/
