@@ -1,0 +1,14 @@
+[project]
+name = "nfl-model"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["pandas>=2.1","numpy>=1.26","pydantic>=2.7","pyyaml>=6.0"]
+[tool.setuptools]
+
+package-dir = {"" = "src"}
+packages = ["nfl_model"]
+
+[project.scripts]
+nfl-lines = "nfl_model.cli:main"
+
+

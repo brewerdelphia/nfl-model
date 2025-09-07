@@ -1,0 +1,3 @@
+week,date,away,home,neutral,model_spread_home,model_total,home_team_total,away_team_total,home_win_prob,away_win_prob,ml_home,ml_away
+1,2025-09-07,BUF,KC,0,3.65,50.5,27.075,23.425,0.6069488647037865,0.3930511352962135,-154,154
+1,2025-09-07,NE,NYJ,0,1.15,40.0,20.575,19.425,0.5340687910865486,0.4659312089134514,-115,115

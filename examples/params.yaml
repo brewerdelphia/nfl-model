@@ -1,0 +1,16 @@
+home_field_points: 1.65
+neutral_home_field_points: 0.0
+qb_weight: 1.0
+league_total: 44.0
+pace_points: 0.0
+margin_sd: 13.45
+spread_cap: 30.0
+use_off_def_for_total: true
+
+# Enable/disable factors without code edits
+spread_factors:
+  - home_field
+  - qb_adjust
+
+total_factors:
+  - off_def_total
